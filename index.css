@@ -4,6 +4,10 @@ body{
     text-align: center;
 }
 
+button{
+    margin-right: 30px;
+}
+
 button#subButton{
     text-align: center;
     font-size: 25px;
